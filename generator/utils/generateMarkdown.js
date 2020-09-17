@@ -11,7 +11,7 @@ function license(license) {
       `This project is licensed under the ${license} license.`
     )
   }
-  return 'None'
+  return ''
 }
 
 function generateMarkdown(data) {
@@ -22,7 +22,6 @@ function generateMarkdown(data) {
 
 # Developer Profile
 Username: ${data.username}<br>
-<img src ='http://github.com/${data.username}.png?size=100'><br>
 Github link: ${githubProfile}
 
 # Project description
@@ -61,7 +60,7 @@ ${data.contributing}
 ${data.test}
 \`\`\`
 
-##Questions
+## Questions
 If you have any questions about the repo, open an issue or contact me directly.<br>
 You can find my work at ${githubProfile}.
 
