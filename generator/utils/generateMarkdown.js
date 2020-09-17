@@ -15,7 +15,6 @@ function license(license) {
 }
 
 function generateMarkdown(data) {
-  const profilePicture = `http://github.com/${data.username}.png?size=100`;
   const githubProfile =`https://github.com/${data.username}`;
 
   return `
@@ -23,7 +22,7 @@ function generateMarkdown(data) {
 
 # Developer Profile
 Username: ${data.username}<br>
-![profilePicture](${profilePicture})<br>
+<img src ='http://github.com/${data.username}.png?size=100'><br>
 Github link: ${githubProfile}
 
 # Project description

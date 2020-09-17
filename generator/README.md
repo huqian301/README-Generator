@@ -1,13 +1,13 @@
 
-# README GENERATOR
+# README
 
 # Developer Profile
 Username: huqian301<br>
-![profilePicture](http://github.com/huqian301.png?size=100)<br>
+<img src ='http://github.com/huqian301.png?size=100'><br>
 Github link: https://github.com/huqian301
 
 # Project description
-It's a readme generator.
+it's readme generator.
 
 ## Table of Contents 
 * [Description](#description)
@@ -19,8 +19,8 @@ It's a readme generator.
 
 
 ## License
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)<br>
-This project is licensed under the MIT license.
+[![built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/huqian301/)<br>
+None
 
 
 ## Installation
@@ -30,7 +30,7 @@ npm i
 
 ## Usage
 ```
-Nothing
+nothing
 ```
 
 
