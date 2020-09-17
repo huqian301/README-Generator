@@ -1,5 +1,6 @@
-# Unit 09 Node.js and ES6+ Homework: Good README Generator
-
+## Student name: Qian Hu
+## Instructor: Emmanuel Jucaban
+## Description: 
 Create a command-line application that dynamically generates a README.md from a user's input. The application will be invoked with the following command:
 
 ```sh
@@ -7,6 +8,18 @@ node index.js
 ```
 
 The user will be prompted for their GitHub username, which will be used to make a call to the GitHub API to retrieve their email and profile image. They will then be prompted with questions about their project.
+## Github links
+https://github.com/huqian301/README-Generator
+
+## Output 
+<img src="./generator/readme.gif">
+<a href="./generator/README.md">Readme File</a>
+
+
+
+
+# Unit 09 Node.js and ES6+ Homework: Good README Generator
+
 
 The README will be populated with the following:
 
